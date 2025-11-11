@@ -20,7 +20,6 @@ The project aims to **improve testing efficiency, accuracy, and speed** by autom
 | Programming Language | **Java** |
 | Automation Tool | **Selenium WebDriver** |
 | Test Framework | **TestNG** |
-| Build Tool | **Maven** |
 | Reporting | **Extent Reports** |
 | IDE | **Eclipse / IntelliJ IDEA** |
 | Version Control | **Git & GitHub** |
@@ -31,8 +30,7 @@ The project aims to **improve testing efficiency, accuracy, and speed** by autom
 ## 🧠 Key Highlights
 - 🧩 Implemented **Page Object Model (POM)** design pattern for clean, reusable, and maintainable code.  
 - 📊 Developed **Data-Driven Testing** using **Apache POI** for Excel data input.  
-- 📑 Integrated **Extent Reports** for detailed HTML reporting with screenshots.  
-- ⚡ Configured **Maven** for dependency management and CI/CD readiness.  
+- 📑 Integrated **Extent Reports** for detailed HTML reporting with screenshots.   
 - 🌐 Conducted **Cross-Browser Testing** across Chrome, Edge, and Firefox.  
 - 🔄 Enhanced **Regression Testing Coverage** while reducing manual effort by **70%**.
 
